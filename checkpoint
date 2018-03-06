@@ -1,0 +1,2 @@
+model_checkpoint_path: "lstm256.ckpt"
+all_model_checkpoint_paths: "lstm256.ckpt"
